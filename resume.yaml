@@ -1,0 +1,27 @@
+name: Uwem Etim
+email: uwemuwemetim@gmail.com
+skills:
+- Web development
+- App development
+- Blogging and SEO optimization
+- UI/UX design
+- No coding web development
+- Data analytics
+- Cybersecurity
+- AI and machine learning
+- Python
+- HTML
+- CSS
+experience:
+  - title: Software Developer
+    company: Tech Mita LTD
+    start_date: 2020-10-01
+    end_date: present
+    responsibilities:
+      - Developed AI models
+      - Built web applications
+      - Collaborated with teams
+education:
+  - degree: ADSE
+    institution: APTECH Computer Education
+    graduation_year: 2019
